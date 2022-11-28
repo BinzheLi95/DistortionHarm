@@ -1,6 +1,6 @@
 # DistortionHarm
 
-The following videos show the visual quality comparisons between composition results with and without the proposed method. Left vidoes are the composition results without the proposed harmonization method.  Right vidoes are the composition results with the proposed harmonization method. 
+The following videos show the visual quality comparisons between composition results with and without the proposed method. Left vidoes are the composition results without the proposed harmonization method.  Right vidoes are the composition results with the proposed harmonization method. This comparison shows that the difference in quality between the portrait and the background is more obvious in the results without harmony.  Thus, the proposed method is effective in reducing quality differences in compositing and visual disharmony.
 
 
 ## Video 8
